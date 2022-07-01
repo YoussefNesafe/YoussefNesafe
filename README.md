@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ynessafe@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](youssefnesafe.github.io/portfolio/)
+- 📄 Know about my experiences [My Portfolio]([youssefnesafe.github.io/portfolio/](https://youssefnesafe.github.io/portfolio/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
