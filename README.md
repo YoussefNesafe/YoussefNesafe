@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Youssef Nesafe</h1>
-<h3 align="center">A frontend developer from Syria</h3>
+<h3 align="center">A Frontend developer from Syria</h3>
 
-- 🔭 I’m currently working on **my portfolio (React.js)**
+- 🔭 I’m currently working on **NESTECH**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **Typescript, Angular**
 
 - 💬 Ask me about **react, vue, javascript, css, sass, git,**
 
 - 📫 How to reach me **ynessafe@gmail.com**
 
-- 📄 Know about my experiences [example.io](example.io)
+- 📄 Know about my experiences [My Portfolio](youssefnesafe.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
