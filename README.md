@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Youssef Nesafe</h1>
 <h3 align="center">A Frontend developer from Syria</h3>
 
-- 🔭 I’m currently working on **NESTECH**
+- 🔭 I’m currently working on **MultibankGroup in Dubai, UAE**
 
-- 🌱 I’m currently learning **Typescript, Angular**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 💬 Ask me about **react, vue, javascript, css, sass, git,**
 
