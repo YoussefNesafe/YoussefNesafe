@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ynessafe@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio]([https://portfolio-youssefnesafe.vercel.app/])
+- 📄 Know about my experiences [My Portfolio](https://portfolio-youssefnesafe.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
